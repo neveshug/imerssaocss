@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
     background: url('http://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
     color: black;
